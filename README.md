@@ -1,4 +1,5 @@
-![JuanMa_Pascual](https://user-images.githubusercontent.com/95492503/145724779-a92b3f79-4745-4545-a464-fa94f865f647.png)
+
+![error](https://user-images.githubusercontent.com/95492503/145724849-5fdf07af-7946-48cf-a34d-eebe12842202.png)
 
 - Estudiante de Ing. En Informática - Universidad de Buenos Aires
 
