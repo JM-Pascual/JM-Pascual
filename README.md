@@ -1,11 +1,13 @@
 <h3 align="center">
-- Estudiante de ingeniería en Informática en <a href="https://www.fi.uba.ar/" target="_blank" rel="noreferrer">FIUBA (Facultad de ingeniería Univ. De BsAs)</a> 👋
+Estudiante de ingeniería en Informática en <a href="https://www.fi.uba.ar/" target="_blank" rel="noreferrer">FIUBA (Facultad de ingeniería Univ. De BsAs)</a> 💻
 </h3>
 
 ### Mi perfil de LinkedIn:
 
 <a href="https://www.linkedin.com/in/juanmapascualosorio/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
+</br>
+</br>
 </br>
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&&logoColor=white&color=3CB371)
@@ -14,7 +16,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Pascual&layout=compact)](https://github.com/JM-Pascual)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Pascual&layout=compact&theme=dracula)](https://github.com/JM-Pascual)
 
 
 <!--
