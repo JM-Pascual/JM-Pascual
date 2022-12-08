@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3>
 Estudiante de ingeniería en Informática en <a href="https://www.fi.uba.ar/" target="_blank" rel="noreferrer">FIUBA (Facultad de ingeniería Univ. De BsAs)</a> 💻
 </h3>
 
