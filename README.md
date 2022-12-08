@@ -16,7 +16,7 @@ Estudiante de ingeniería en Informática en <a href="https://www.fi.uba.ar/" ta
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Pascual&layout=compact&theme=cobalt)](https://github.com/JM-Pascual)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Pascual&layout=compact&theme=dark)](https://github.com/JM-Pascual)
 
 
 <!--
