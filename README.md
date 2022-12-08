@@ -1,5 +1,5 @@
 <h3>
-Estudiante de ingeniería en Informática en <a href="https://www.fi.uba.ar/" target="_blank" rel="noreferrer">FIUBA (Facultad de ingeniería Univ. De BsAs)</a> 💻
+Estudiante de ingeniería en Informática en <a href="https://www.fi.uba.ar/" target="_blank" rel="noreferrer">FIUBA (Facultad de Ingeniería UBA)</a> 💻
 </h3>
 
 ### Mi perfil de LinkedIn:
