@@ -16,7 +16,9 @@ Estudiante de Ingeniería en Informática en <a href="https://www.fi.uba.ar/" ta
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JM-Pascual&layout=compact&theme=dark)](https://github.com/JM-Pascual)
+<img width="48%" src='https://github-readme-stats.vercel.app/api?username=JM-Pascual&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JM-Pascual&theme=tokyonight" />
 
 
 <!--
