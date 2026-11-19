@@ -2,7 +2,7 @@ Algorithms & Data Structures and Data Science / Machine Learning Professor @ UBA
 
 Data Scientist @ Mercado Libre.
 
-My [X]([https://www.linkedin.com/in/juanmapascualosorio/](https://x.com/juanmanuelaaaj)) Account
+My [X](https://x.com/juanmanuelaaaj) account
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*2Xtu3NtR5dCfYQU3-4qTxA.png" alt="MLP Network" width="750"/>
 
